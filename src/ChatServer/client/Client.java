@@ -15,6 +15,7 @@ public class Client {
     private static int serverPort;
     private static boolean endClient;
 
+    
     //Input and output streams
     private Scanner clientInputScanner;
     private PrintStream clientOutputStream;
